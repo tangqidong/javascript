@@ -1,0 +1,25 @@
+.content{
+	width:200px;
+	margin:0 auto;
+}
+.top{
+	width:200px;
+	height:100px;
+	background: green;
+	font-family: 微软雅黑；
+	font-size:30px;
+	line-height: 30px;
+	text-align: center;
+}
+#box{
+	width:200px;
+	height:200px;
+	background: #ccc;
+	overflow: hidden;
+}
+#box ul li{
+	display: block;
+	margin: 0 auto;
+	font-size: 20px;
+	line-height: 30px;
+}
